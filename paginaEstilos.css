@@ -1,0 +1,42 @@
+/*Archivo de estilos*/
+body{
+
+    background-color: lightyellow;
+    color:#000000;
+}
+header{
+    background-color:lightcyan;
+    border: 5px outset  #000000;
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+p{
+    font-size: 18px;
+    text-align:justify;
+    background-color: lightcyan;
+    border: 5px outset black;
+}
+a:link{
+    color: blue ;
+}
+a:visited{
+    background-color:  #e6f2ff;
+    color:red;
+
+}
+a:hover{
+    background-color:  #e6f2ff;
+
+}
+a:active{
+    color: indianred;
+}
